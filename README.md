@@ -23,6 +23,7 @@ Este projeto foi desenvolvido com foco em **aprendizado prático**, **organizaç
 ## 🚀 Tecnologias Utilizadas
 
 - JavaScript
+- Java
 - Git & GitHub
 - Framework de automação: Selenium
 - HTML / CSS (aplicação testada)
