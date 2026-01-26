@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public abstract class BaseTest {
     
     protected static WebDriver driver;
-    private static final String URL_BASE = "C:/Users/osafu.CYBERPUNK/Desktop/Projetos-QA/TesteSiteQA/controle-de-produtos/sistema/login.html";
+    private static final String URL_BASE = "C:/Users/osafu.CYBERPUNK/Desktop/TesteSiteQA/controle-de-produtos/sistema/login.html";
 
     /**Chama antes de qualquer teste**/
     

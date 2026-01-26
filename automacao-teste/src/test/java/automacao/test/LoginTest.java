@@ -43,6 +43,7 @@ public class LoginTest extends BaseTest {
         assertEquals("Email Obrigatório", mensagem);
     }
     
+    /* Verificar HTML --- Erro de teste -- puxando campo errado*/
     @Test
     public void CT004_nao_deve_logar_retorna_mensagem_camposInvalidos_usuarioPreenchido_senhaPreenchida(){
         loginPage.executarAcaoLogar("teste@gmail.com", "Senh@");
